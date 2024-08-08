@@ -1,0 +1,40 @@
+{
+  "WBUI2": {
+	"settings":
+	{
+		"OpenButton": 0,
+		"HideIcon": true,
+		"HideIconAfter": 10,
+		"IconURL": "https://i.imgur.com/nXaynMr.png",
+		"DisableIconText": false,
+		"IconPosition": 0,
+		"IconTextColor": 0,
+		"OpenOnStart": true,
+		"OpenOnStartOnlyNewPlayers": true,
+		"UpdateInterval": 12
+	},
+	"tabs": [
+		{
+			"tab1":
+			{
+				"layout": 2,
+				"buttontext": "Welcome",
+				"title1": "<TextStyle.Yellow>Welcome to Mythic Paradis</>",
+				"text1": "Embark on an Epic Adventure in our ASA PvE Cluster!\r\n\r\nEnjoy a balanced and immersive Ark experience with custom features and an inviting community. Perfect for both seasoned survivors and newcomers!\r\n\r\n<TextStyle.Green>Mythic Paradis Cluster Maps:</>\r\n- The Island\r\n- Scorched Earth\r\n- The Center\r\n- Svartalfheim\r\nMore coming soon!\r\n\r\n<TextStyle.Green>Events & Community:</>\r\nRegular events with rewards. Join our Discord to get all news.\r\n\r\n<TextStyle.Green>Rules & Guidelines:</>\r\nTo ensure a fun and fair environment for everyone, please join our Discord to read the full list of server rules and guidelines. Your cooperation helps us maintain a welcoming and enjoyable community!",
+				"imageurl": "https://i.imgur.com/ubEaFUz.png",
+				"title2": "<TextStyle.Yellow>Server Information</>",
+				"text2": "<TextStyle.Green>Server Settings:</>\r\n- XP: 2x\r\n- Taming: 10x\r\n- Harvest: 5x\r\n- Incubation: 10x\r\n- Maturation: 10x\r\n- Imprint Interval: 0.1x (48m)\r\n- Imprint Quality: 15x\r\n- Max Wild Level: 150 (Wyverns 190)\r\n\r\n<TextStyle.Green>Mods:</>\r\n- Mythical Costumes\r\n- Arkitect Structures Remastered\r\n- Ark Shop\r\n- Cybers Structures QoL+\r\n- Automated Ark\r\n- S-Dino Variants\r\n- Better Breeding\r\n- Dino Depot\r\n- Alfa Oceanic Platforms\r\n- Awesome Teleporters\r\n- Super Spyglass Plus\r\n- Solo Farm\r\n- Shiny! Dinos Ascended\r\n- RR-Potions\r\n- Custom Creature Levels"
+			}
+		}
+	],
+	"links": [
+		{
+			"link1":
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/j9jtdmKkKx"
+			}
+		}
+	]
+}
+}
